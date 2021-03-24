@@ -90,7 +90,7 @@ section button:hover{
     display: none;
     font-size: 2rem;
 }
-section button:hover + #sup {
+button:hover + #sup {
     display: inline-block;
 }
 
